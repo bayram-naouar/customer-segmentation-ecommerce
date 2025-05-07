@@ -1,0 +1,3 @@
+K-Means Score: {'Silhouette Score': np.float64(0.9345703791740566), 'Calinski-Harabasz Index': np.float64(8043.293898529579), 'Davies-Bouldin Index': np.float64(0.5086372752829781)}
+GMM Score: {'Silhouette Score': np.float64(0.11730139975021112), 'Calinski-Harabasz Index': np.float64(2630.1825602993213), 'Davies-Bouldin Index': np.float64(1.2555001170860296)}
+DBSCAN Score: {'Silhouette Score': None, 'Calinski-Harabasz Index': None, 'Davies-Bouldin Index': None}
