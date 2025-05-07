@@ -50,8 +50,6 @@ Each model is tuned using multiple strategies (e.g., Elbow Method, Silhouette Sc
 │   ├── visuals/                 # All plots (elbow, silhouette, clusters)
 │   └── scores.txt               # Model evaluation scores
 ├── notebooks/                   # (Optional) Exploratory notebooks
-├── param_grids/                # (Optional) Param grid JSONs for tuning
-├── best_params/                # (Optional) Best param results (JSON)
 ├── src/                         # Core codebase
 │   ├── data_loader.py
 │   ├── feature_engineering.py
